@@ -32,7 +32,8 @@ namespace Tyuiu.FedorovaDA.Sprint1.Task2.V25
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Значение угла в градусах:" + Math.Round(ds.ConvertRadsToDegrees(x), 3));
+
+            Console.WriteLine("Значение угла в градусах:" + ds.ConvertRadsToDegrees(x));
         }
     }
 }

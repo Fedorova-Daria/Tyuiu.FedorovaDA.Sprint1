@@ -6,7 +6,7 @@ namespace Tyuiu.FedorovaDA.Sprint1.Task2.V25.Lib
     {
         public double ConvertRadsToDegrees(int value)
         {
-            return value * (180/3.14159274);
+            return Math.Round(value * (180/3.14159274), 3);
         }
     }
 }
