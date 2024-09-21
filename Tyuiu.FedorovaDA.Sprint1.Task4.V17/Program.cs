@@ -12,7 +12,7 @@ namespace Tyuiu.FedorovaDA.Sprint1.Task4.V17
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");
             Console.WriteLine("* Выполнила: Федорова Дарья Артемовна | АСОиУб-24-1                       *");
